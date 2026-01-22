@@ -3,7 +3,7 @@
 ![swift](https://img.shields.io/badge/swift-F05138?style=flat&logo=swift&logoColor=ffffff)
 ![objc](https://img.shields.io/badge/objective--c-1E88E5)
 
-[![Stats](https://github-readme-stats-one-bice.vercel.app/api?username=NikKovIos&show_icons=true&include_all_commits=true&count_private=true&role=ORGANIZATION_MEMBER,COLLABORATOR&theme=graywhite)](https://github.com/NikKovIos)
+[![Stats](https://github-readme-stats-one-bice.vercel.app/api?username=NikKovIos&show_icons=true&include_all_commits=true&count_private=true&role=ORGANIZATION_MEMBER,COLLABORATOR&hide_border=true&hide_title=true&text_color=797979&ring_color=F05138&icon_color=F05138&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/NikKovIos)
 
 ## 🚀 About
 iOS developer since 25.01.2016
